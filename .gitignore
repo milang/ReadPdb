@@ -1,0 +1,7 @@
+/_*
+/*.sln.docstates
+/*.suo
+bin/
+obj/
+*.user
+*.dotCover
